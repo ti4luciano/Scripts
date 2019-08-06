@@ -1,2 +1,2 @@
 # Scripts
-Scripts for general use
+Scripts on ShellScript for general use
